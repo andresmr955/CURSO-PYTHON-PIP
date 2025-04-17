@@ -1,5 +1,5 @@
 # CURSO-PYTHON-PIP
-
+# GAME PROJECT
 Project description:
 
 Brief introduction to the project and what it does.
@@ -12,6 +12,12 @@ Usage:
 
 Examples or steps for running the project, such as terminal commands or example code.
 
+To run game, you should follow the next instruction on the terminal
+
+```sh
+cd game
+python main.py
+```
 Contribution:
 
 Information on how developers can contribute to the project, such as guidelines for making pull requests or reporting bugs.
