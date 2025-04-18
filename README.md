@@ -22,7 +22,7 @@ python main.py
 ```sh
 git clone
 cd app
-create a virtual environement work
+create a virtual environement work(python3 -m venv venv)
 source env/bin/activate
 pip install -r requirements.txt
 python3 main.py
