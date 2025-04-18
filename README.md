@@ -18,6 +18,14 @@ To run game, you should follow the next instruction on the terminal
 cd game
 python main.py
 ```
+# App Project
+```sh
+git clone
+cd app
+source env/bin/activate
+pip install -r requirements.txt
+python3 main.py
+```
 Contribution:
 
 Information on how developers can contribute to the project, such as guidelines for making pull requests or reporting bugs.
