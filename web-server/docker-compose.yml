@@ -1,0 +1,11 @@
+services:
+  web-server:
+    build:
+      context: .
+      dockerfile:
+        Dockerfile
+    volumes:
+      - .:/app
+      #conect ports
+    ports:
+      - '80:80'
